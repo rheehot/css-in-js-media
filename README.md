@@ -88,3 +88,8 @@ const exampleClass = styled.h1`
 ### License
 
 [MIT](./LICENSE)
+
+
+##  comment
+
+리액트 개발을 하면서 styled-components나 emotion.js같은 css-in-js 기법을 활용해 반응형 대응을 할때 불편한 적이 많았는데요, scss를 활용할때는 include-media 같은 라이브러리를 통해 직관적으로 반응형대응을 할 수 있었던 점에서 착안해 이를 css-in-js 기법들(styled-component, emotion.js) 에서도 사용할 수 있도록 만든 라이브러리 입니다. 
